@@ -5,7 +5,7 @@ Description:
 A Tool To Auto Save the Scene after so many seconds
 
 How To Install:
-Put the SimpleAutoSave.js file anywhere in your project. 
+1. Put the SimpleAutoSave.js file anywhere in your project. 
 
 How To Use: 
 1. Select Window/AutoSave Tool
@@ -20,6 +20,10 @@ How To Use:
 
 6. Continue Working :) 
 
+
+Donate with Bitcoin: 13DJBjJ3b7GCG2rGYgbYMhxc56Zm1xCnUx
+
+![Alt text](http://i.imgur.com/vu0NwGd.png "Bitcoin QR Code")
 
 Disclaimer: 
 There already existed an AutoSave Tool written by Unity 3D developers. I just altered it so you could edit the seconds between saves. 
